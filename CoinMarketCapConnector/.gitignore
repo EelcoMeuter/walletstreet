@@ -12,6 +12,7 @@
 hs_err_pid*
 cmake-build-debug/
 cmake-build-release/
+.idea/**/mongoSettings.xml
 *.iws
 out/
 .idea_modules/
@@ -31,5 +32,5 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 !/.mvn/wrapper/maven-wrapper.jar
-/.idea/
 *.iml
+/.idea/
